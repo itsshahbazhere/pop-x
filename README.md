@@ -1,0 +1,1 @@
+This project includes the Pop-X Login, Signup, Dashboard, and Welcome pages, developed using React.js. It was created as part of the Educase India internship qualifier task.
