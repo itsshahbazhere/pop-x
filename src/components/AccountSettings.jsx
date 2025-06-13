@@ -35,8 +35,7 @@ const AccountSettings = () => {
             Erat, Sed Diam
           </p>
         </div>
-        <div className="h-full"></div>
-        <div className="border-t-2 border-dashed"></div>
+    
       </div>
     </Width>
   );
