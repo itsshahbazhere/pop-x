@@ -60,8 +60,7 @@ const Login = () => {
           consectetur adipiscing elit.
         </p>
 
-        {/* Email */}
-        <div className="relative w-full mb-2">
+        <div className="relative w-full mb-6">
           <label
             htmlFor="email"
             className="absolute -top-2 left-3 bg-gray-50 px-1 text-xs font-medium text-purple-700"
